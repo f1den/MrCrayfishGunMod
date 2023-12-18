@@ -5,6 +5,20 @@
 # MrCrayfish's Gun Mod
 
 This is fork of official MrCrayfish's Gun Mod, but with some fixes, addons and features. 
+> [!IMPORTANT]
+> # Bug fix
+> remove fire in `onMouseClick` to avoid two shots in one tick
+> 
+> # More Options
+> `spreadAdsReduction`, like `recoilAdsReduction`, it can reduce spread when aiming, default 0.5
+> 
+> `projectileBurst`, gun can shoot several times in a short time, default 1
+> 
+> `recoilDuration`, change the number of ticks the recoil persists, default 6.67
+> 
+> `recoilRadian`, change the recoil direction in radian, default 0
+
+![Break](https://i.imgur.com/NnYcCMD.png)
 
 # Main Repository Authors
 <a href="https://github.com/MrCrayfish/MrCrayfishGunMod/graphs/contributors">
