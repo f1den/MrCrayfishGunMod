@@ -11,9 +11,10 @@ This is fork of official MrCrayfish's Gun Mod, but with some fixes, addons and f
   <img src="https://contrib.rocks/image?repo=MrCrayfish/MrCrayfishGunMod" />
 </a>
 
-# This frok contributers
+# This fork contributers
 <a href="https://github.com/f1den/MrCrayfishGunMod/graphs/contributors">
-<!--   <img src="https://contrib.rocks/image?repo=f1den/MrCrayfishGunMod" /> -->
+  <img src="https://contrib.rocks/image?repo=f1den/MrCrayfishGunMod" />
+  <img src="https://contrib.rocks/image?repo=Moon-404/MrCrayfishGunMod" />
 </a>
 
 ![Break](https://i.imgur.com/NnYcCMD.png)
