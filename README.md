@@ -4,7 +4,12 @@
 
 # MrCrayfish's Gun Mod
 
-This is fork of official MrCrayfish's Gun Mod, but with pull request by https://github.com/Moon-404
+This is fork of official MrCrayfish's Gun Mod, but with some fixes, addons and features. 
+
+# Authors
+<a href="https://github.com/MrCrayfish/MrCrayfishGunMod/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MrCrayfish/MrCrayfishGunMod" />
+</a>
 
 
 ![Break](https://i.imgur.com/NnYcCMD.png)
