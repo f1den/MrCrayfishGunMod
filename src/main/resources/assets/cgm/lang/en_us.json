@@ -1,5 +1,7 @@
 {
     "block.cgm.workbench": "Workbench",
+    "item.cgm.magazine_basic": "Basic Magazine",
+    "item.cgm.magazine_advanced": "Advanced Magazine",
     "item.cgm.pistol": "Pistol",
     "item.cgm.shotgun": "Shotgun",
     "item.cgm.sniper_rifle": "Sniper Rifle",

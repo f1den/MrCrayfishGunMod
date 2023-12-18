@@ -1,5 +1,7 @@
 {
     "block.cgm.workbench": "Верстак",
+    "item.cgm.magazine_basic": "Простой Магазин",
+    "item.cgm.magazine_advanced": "Продвинутый Магазин",
     "item.cgm.pistol": "Пистолет",
     "item.cgm.shotgun": "Дробовик",
     "item.cgm.sniper_rifle": "Снайперская винтовка",
